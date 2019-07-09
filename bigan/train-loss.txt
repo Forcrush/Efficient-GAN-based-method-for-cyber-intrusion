@@ -1,0 +1,20 @@
+[05:49:36 INFO @BiGAN.train.kdd.fm] Epoch terminated
+Epoch 499 | time = 29s | loss gen = -103639108428694480.0000 | loss enc = 38275696645.1626 | loss dis = -76442044156.3217 
+[05:49:36 WARNING @BiGAN.train.kdd.fm] Testing evaluation...
+[05:49:45 INFO @BiGAN.train.kdd.fm] Testing : mean inference time is 0.0017
+Testing : Prec = 0.9324 | Rec = 0.9473 | F1 = 0.9398 
+[Finished in 14622.5s]
+
+[20:51:34 INFO @BiGAN.train.kdd.cross-e] Epoch terminated
+Epoch 499 | time = 27s | loss gen = -103639108428694480.0000 | loss enc = 38275696645.1626 | loss dis = -76442044156.3217 
+[20:51:34 WARNING @BiGAN.train.kdd.cross-e] Testing evaluation...
+[20:51:42 INFO @BiGAN.train.kdd.cross-e] Testing : mean inference time is 0.0014
+Testing : Prec = 0.9324 | Rec = 0.9473 | F1 = 0.9398 
+[Finished in 13645.9s]
+
+[05:41:35 INFO @BiGAN.train.kdd.fm] Epoch terminated
+Epoch 499 | time = 28s | loss gen = -87482824005376896.0000 | loss enc = 32013595892.4487 | loss dis = -64201145953.9602 
+[05:41:35 WARNING @BiGAN.train.kdd.fm] Testing evaluation...
+[05:41:44 INFO @BiGAN.train.kdd.fm] Testing : mean inference time is 0.0018
+Testing : Prec = 0.9283 | Rec = 0.9432 | F1 = 0.9357 
+[Finished in 14865.1s]
