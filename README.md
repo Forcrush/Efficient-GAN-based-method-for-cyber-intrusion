@@ -10,6 +10,6 @@
 
 ## Execution
 
-* Some datasets should be unzipped firstly in /data
+1. Some datasets should be unzipped firstly in /data
 
-* Normally, directly run the main.py should work (with default parameters in this script). Also you can change them to train a model on different datasets with different settings.
+2. Normally, directly run the main.py should work (with default parameters in this script). Also you can change them to train a model on different datasets with different settings.
