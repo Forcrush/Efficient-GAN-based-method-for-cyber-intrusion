@@ -6,7 +6,7 @@
 
 ## Environment
 
-### Python 3.6+ & Required packages
+### Python 3.5+ & Required packages
 
 ## Execution
 
